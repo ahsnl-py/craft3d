@@ -1,6 +1,25 @@
 # Craft3d
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
+Angular CLI: 13.2.4
+Node: 14.18.1
+Package Manager: yarn 1.22.17
+OS: win32 x64
+
+Angular: 13.2.3
+... animations, common, compiler, compiler-cli, core, forms
+... platform-browser, platform-browser-dynamic, router
+
+## Package Version
+
+@angular-devkit/architect 0.1302.4
+@angular-devkit/build-angular 13.2.4
+@angular-devkit/core 13.2.4
+@angular-devkit/schematics 13.2.4
+@angular/cli 13.2.4
+@schematics/angular 13.2.4
+rxjs 6.6.7
+typescript 4.5.5
 
 ## Cloning project
 
