@@ -7,8 +7,6 @@ Package Manager: yarn 1.22.17
 OS: win32 x64
 
 Angular: 13.2.3
-... animations, common, compiler, compiler-cli, core, forms
-... platform-browser, platform-browser-dynamic, router
 
 ## Package Version
 
