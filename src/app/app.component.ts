@@ -1,16 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
-@Component({ 
+@Component({
   selector: 'app-root',
-  template: `
-    <app-customers></app-customers>
-  `
+  templateUrl: './app.component.html',
 })
-export class AppComponent implements OnInit {
-  constructor() { }
-
-  ngOnInit() {
-
-  }
-  
+export class AppComponent {
+  title = 'craft3d';
 }
